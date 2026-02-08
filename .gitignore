@@ -11,3 +11,6 @@ Thumbs.db
 
 # Data (optional)
 data/raw/*.csv
+
+# Outputs (large generated files)
+outputs/
