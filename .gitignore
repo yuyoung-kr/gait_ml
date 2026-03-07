@@ -24,7 +24,8 @@ Thumbs.db
 # Data
 # ======================
 
-data/
+data/*
+!data/README.md
 *.csv
 *.pkl
 *.npy
